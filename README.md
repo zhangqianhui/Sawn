@@ -22,10 +22,10 @@ University of Trento, Zhejiang University
 ## Texture Transfer
 
 <p float="left">
-  <img src="imgs/timgs/result.gif" height="190" height="350"  />
-  <img src="imgs/timgs/result2.gif" height="190" height="350" />
-  <img src="imgs/timgs/result3.gif" height="190" height="350" />
-  <img src="imgs/timgs/result4.gif" height="190" height="350" />
+  <img src="imgs/timgs/result.gif" height="190" width="350"  />
+  <img src="imgs/timgs/result2.gif" height="190" width="350" />
+  <img src="imgs/timgs/result3.gif" height="190" width="350" />
+  <img src="imgs/timgs/result4.gif" height="190" width="350" />
 </p>
 
 # Code
