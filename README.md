@@ -4,9 +4,9 @@ Jichao Zhang, [Aliaksandr Siarohin](https://aliaksandrsiarohin.github.io/aliaksa
 
 University of Trento, Zhejiang University
 
-[Paper](https://arxiv.org/pdf/2105.14739.pdf) | [3 Min Video](https://www.youtube.com/watch?v=PBK8ip7D5w4&t=2s)
+[Paper](https://arxiv.org/pdf/2105.14739.pdf) | [Demo Video](https://www.youtube.com/watch?v=PBK8ip7D5w4&t=2s) 
 
-# Demo 
+# Results 
 
 ## Pose Transfer
 
@@ -19,16 +19,16 @@ University of Trento, Zhejiang University
   <img src="imgs/pimgs/581.gif" height="190" />
 </p>
 
-
 ## Texture Transfer
 
 <p float="left">
-  <img src="imgs/timgs/result.gif" height="190" height="450"  />
-  <img src="imgs/timgs/result2.gif" height="190" height="450" />
-  <img src="imgs/timgs/result3.gif" height="190" height="450" />
-  <img src="imgs/timgs/result4.gif" height="190" height="450" />
+  <img src="imgs/timgs/result.gif" height="190" height="350"  />
+  <img src="imgs/timgs/result2.gif" height="190" height="350" />
+  <img src="imgs/timgs/result3.gif" height="190" height="350" />
+  <img src="imgs/timgs/result4.gif" height="190" height="350" />
 </p>
 
+# Code
 
 Code will be published soon.
 
