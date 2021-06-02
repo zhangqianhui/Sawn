@@ -1,5 +1,5 @@
 # Controllable Person Image Synthesis with Spatially-Adaptive Warped Normalization
 
-Jichao Zhang, [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), [Oliver Wang](http://www.oliverwang.info/), [Jingwan Lu](https://research.adobe.com/person/jingwan-lu/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Alexei A. Efros](http://www.eecs.berkeley.edu/~efros/), [Richard Zhang](https://richzhang.github.io/)
+Jichao Zhang, [Aliaksandr Siarohin](https://aliaksandrsiarohin.github.io/aliaksandr-siarohin-website/), [Hao Tang](https://scholar.google.com/citations?hl=en&user=9zJkeEMAAAAJ), Jingjing Chen, Enver Sangineto, [Wei Wang](https://scholar.google.com/citations?user=k4SdlbcAAAAJ&hl=en), [Nicu Sebe](https://scholar.google.com/citations?user=tNtjSewAAAAJ&hl=en)
 
-UC Berkeley and Adobe Research
+University of Trento, Zhejiang University
