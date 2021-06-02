@@ -4,7 +4,7 @@ Jichao Zhang, [Aliaksandr Siarohin](https://aliaksandrsiarohin.github.io/aliaksa
 
 University of Trento, Zhejiang University
 
-[Paper](https://arxiv.org/abs/2007.00653) | [3 Min Video](https://youtu.be/0elW11wRNpg)
+[Paper](https://arxiv.org/abs/2007.00653) | [3 Min Video](https://www.youtube.com/watch?v=PBK8ip7D5w4&t=2s)
 
 
 
