@@ -23,9 +23,10 @@ University of Trento, Zhejiang University
 ## Texture Transfer
 
 <p float="left">
-  <img src="https://taesung.me/SwappingAutoencoder/index_files/church_style_swaps.gif" height="190" />
-  <img src="https://taesung.me/SwappingAutoencoder/index_files/tree_smaller.gif" height="190" />
-  <img src="https://taesung.me/SwappingAutoencoder/index_files/horseshoe_bend_evensmaller.gif" height="190" />
+  <img src="imgs/pimgs/result.gif" height="190" />
+  <img src="imgs/pimgs/result2.gif" height="190" />
+  <img src="imgs/pimgs/result3.gif" height="190" />
+  <img src="imgs/pimgs/result4.gif" height="190" />
 </p>
 
 
