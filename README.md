@@ -32,7 +32,9 @@ University of Trento, Zhejiang University
 
 Code will be published soon.
 
+# Questions
 
+If you have any questions/comments, feel free to open a github issue or pull a request or e-mail to the author Jichao Zhang (jichao.zhang@unitn.it).
 
 
 
