@@ -1,0 +1,2 @@
+#!/bin/bash
+python test.py --name=v9 --model=pose --attn_layer=1,2,3 --kernel_size=1=3,2=3,3=3 --gpu_id=2 --dataset_mode=fashion --dataroot=./dataset/fashion --dirSem ./dataset/fashion/semantic_merge --results_dir=./eval_results/fashion1550000 --which_iter 1550000
