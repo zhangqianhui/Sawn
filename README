@@ -1,0 +1,25 @@
+This is a pytorch implementation of Sawn.
+
+Install:
+conda create -name sawn python=3.6
+pip install -r requirement.txt
+bash ./setup.sh
+
+Training
+1) Flow Field Pretraining:
+bash scripts/train_FlowField.sh
+
+2) Sawn Training:
+bash scripts/train_Sawn.sh
+
+3) STPR Training for texture transfer:
+bash scripts/train_STPR.sh
+
+Test:
+bash scripts/test_pose_transfer.sh
+bash scripts/test_texture_transfer.sh
+
+Reference code:
+
+[1] https://github.com/RenYurui/Global-Flow-Local-Attention
+[2] https://github.com/NVlabs/SPADE

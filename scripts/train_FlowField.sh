@@ -1,0 +1,2 @@
+#!/bin/bash
+python train.py --batchSize=5 --name=v9 --model=flownet --attn_layer=1,2,3 --kernel_size=1=3,2=3,3=3 --gpu_id=1 --dataset_mode=fashion --dataroot=./dataset/fashion --dirSem ./dataset/fashion/semantic_merge --display_id 0

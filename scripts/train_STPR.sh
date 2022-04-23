@@ -1,0 +1,2 @@
+#!/bin/bash
+python train.py --name=v9 --batchSize=2 --model=pose --attn_layer=1,2,3 --kernel_size=1=3,2=3,3=3 --gpu_id=1,2 --dataset_mode=fashion --dataroot=./dataset/fashion --dirSem ./dataset/fashion/semantic_merge --continue_train --display_id 0 --which_iter 1300000 --is_texturet --seg_label 5 --save_iters_freq 1000
