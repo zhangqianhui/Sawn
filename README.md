@@ -1,8 +1,8 @@
 # Controllable Person Image Synthesis with Spatially-Adaptive Warped Normalization
 
-Jichao Zhang, [Aliaksandr Siarohin](https://aliaksandrsiarohin.github.io/aliaksandr-siarohin-website/), [Hao Tang](https://scholar.google.com/citations?hl=en&user=9zJkeEMAAAAJ), [Enver Sangineto](https://scholar.google.com/citations?user=eJZlvlAAAAAJ&hl=en), [Wei Wang](https://scholar.google.com/citations?user=k4SdlbcAAAAJ&hl=en), [Humphrey Shi](https://scholar.google.com/citations?user=WBvt5A8AAAAJ&hl=en&oi=ao) [Nicu Sebe](https://scholar.google.com/citations?user=tNtjSewAAAAJ&hl=en)
+Jichao Zhang, [Aliaksandr Siarohin](https://aliaksandrsiarohin.github.io/aliaksandr-siarohin-website/), [Hao Tang](https://scholar.google.com/citations?hl=en&user=9zJkeEMAAAAJ), [Enver Sangineto](https://scholar.google.com/citations?user=eJZlvlAAAAAJ&hl=en), [Wei Wang](https://scholar.google.com/citations?user=k4SdlbcAAAAJ&hl=en), [Humphrey Shi](https://scholar.google.com/citations?user=WBvt5A8AAAAJ&hl=en&oi=ao), [Nicu Sebe](https://scholar.google.com/citations?user=tNtjSewAAAAJ&hl=en)
 
-University of Trento, ETH Zurich
+University of Trento, ETH Zurich, Snap Research, University of Oregon
 
 [Paper](https://arxiv.org/pdf/2105.14739.pdf) | [Demo Video](https://www.youtube.com/watch?v=PBK8ip7D5w4&t=2s) 
 
