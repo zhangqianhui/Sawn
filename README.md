@@ -4,7 +4,7 @@ Jichao Zhang, [Aliaksandr Siarohin](https://aliaksandrsiarohin.github.io/aliaksa
 
 University of Trento, ETH Zurich, Snap Research, University of Oregon
 
-[Paper](https://arxiv.org/pdf/2105.14739.pdf) | [Demo Video](https://www.youtube.com/watch?v=PBK8ip7D5w4&t=2s) 
+[Demo Video](https://www.youtube.com/watch?v=PBK8ip7D5w4&t=2s) 
 
 # Results 
 
