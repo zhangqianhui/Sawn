@@ -4,6 +4,8 @@ Jichao Zhang, [Aliaksandr Siarohin](https://aliaksandrsiarohin.github.io/aliaksa
 
 University of Trento, ETH Zurich, Snap Research, University of Oregon
 
+[Demo Video](https://www.youtube.com/watch?v=fdi6-NpH6no&t=108s)  
+
 # Results 
 
 ## Pose Transfer
